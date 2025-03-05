@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "The Zurra.sln"
+    "dotnet.defaultSolution": "The_Zurra.sln"
 }
